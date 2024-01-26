@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aswanathxoxo
-- 👀 I’m interested in getting better
-- 🌱 I’m currently learning web development ,css
+- 👀 I’m currently pursuing btech in computer science
+-    currenty learning full stack
 - 📫 How to reach me Instagram @__aswanath
 
 <!---
