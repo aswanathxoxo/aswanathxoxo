@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @aswanathxoxo
-- 👀 I’m currently pursuing btech in computer science
-- 📫 How to reach me Instagram @__aswanath
-
-<!---
-aswanathxoxo/aswanathxoxo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m @aswanathxoxo
+🎓 Currently pursuing a Bachelor of Technology (B.Tech) in Computer Science.
+💻 Strong interest in Java Full Stack Development.
+📊 Passionate about Artificial Intelligence and Data Science.
+📫 Feel free to connect with me on Instagram: @__aswanath
