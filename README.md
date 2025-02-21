@@ -15,7 +15,6 @@
 
 ## 📫 Connect with Me  
 - **LinkedIn:** [linkedin.com/in/aswanathjayanath](https://www.linkedin.com/in/aswanathjayanath/)  
-- **GitHub:** [github.com/aswanathxoxo](https://github.com/aswanathxoxo)  
 - **Instagram:** [@__aswanath](https://www.instagram.com/__aswanath)  
 
 
